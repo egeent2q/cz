@@ -1415,3 +1415,47 @@ body {
 .cid-qY9Jz9ADmu H1 {
   text-align: center;
 }
+.cid-qYby3BdEvk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/img-20180424-125739-2000x1125.jpg");
+}
+.cid-qYby3BdEvk h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-qYby3BdEvk p {
+  color: #ffffff;
+}
+.cid-qYby3BdEvk .card {
+  margin-bottom: 2rem;
+}
+.cid-qYby3BdEvk .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #149dcc;
+}
+.cid-qYby3BdEvk .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-qYby3BdEvk .card-box {
+  padding-bottom: 2rem;
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-qYby3BdEvk .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qYby3BdEvk .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qYby3BdEvk .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qYby3BdEvk .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
